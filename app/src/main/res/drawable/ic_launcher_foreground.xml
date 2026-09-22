@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Shield + steering wheel, matching the Welcome screen hero -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,28 L76,36 L76,56 C76,68 66,78 54,82 C42,78 32,68 32,56 L32,36 Z" />
+    <path
+        android:fillColor="#2563EB"
+        android:pathData="M54,42 A13,13 0 1,1 53.99,42 Z M54,46 A9,9 0 1,0 54.01,46 Z" />
+    <path
+        android:fillColor="#2563EB"
+        android:pathData="M45,53 L63,53 L63,57 L57,57 L56,64 L52,64 L51,57 L45,57 Z" />
+</vector>
